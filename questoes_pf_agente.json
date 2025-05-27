@@ -1076,5 +1076,1090 @@
       "disciplina": "Contabilidade Geral",
       "enunciado": "Os bens intangíveis, como marcas e patentes, não são registrados no Ativo por não possuírem existência física.",
       "gabarito": "E"
+    },
+    {
+      "id": "B1_LP_N001",
+      "bloco": 1,
+      "disciplina": "Língua Portuguesa",
+      "enunciado": "A identificação do referente de um pronome anafórico é crucial para a coesão e a correta interpretação textual.",
+      "gabarito": "C"
+    },
+    {
+      "id": "B1_LP_N002",
+      "bloco": 1,
+      "disciplina": "Língua Portuguesa",
+      "enunciado": "O emprego da voz passiva sintética, como em 'Alugaram-se casas', indica que o sujeito 'casas' pratica a ação de alugar.",
+      "gabarito": "E"
+    },
+    {
+      "id": "B1_LP_N003",
+      "bloco": 1,
+      "disciplina": "Língua Portuguesa",
+      "enunciado": "A regência do verbo 'assistir', no sentido de 'prestar assistência', exige a preposição 'a'.",
+      "gabarito": "E"
+    },
+    {
+      "id": "B1_LP_N004",
+      "bloco": 1,
+      "disciplina": "Língua Portuguesa",
+      "enunciado": "Em 'Chegaram o agente e o escrivão atrasados', a concordância do adjetivo 'atrasados' está correta, concordando com o substantivo mais próximo.",
+      "gabarito": "E"
+    },
+    {
+      "id": "B1_LP_N005",
+      "bloco": 1,
+      "disciplina": "Língua Portuguesa",
+      "enunciado": "O termo 'outrossim', de uso comum em textos formais, é classificado como uma conjunção adversativa, sinônima de 'porém'.",
+      "gabarito": "E"
+    },
+    {
+      "id": "B1_LP_N006",
+      "bloco": 1,
+      "disciplina": "Língua Portuguesa",
+      "enunciado": "A oração 'É imprescindível que se apurem os fatos' é classificada como subordinada substantiva subjetiva.",
+      "gabarito": "C"
+    },
+    {
+      "id": "B1_LP_N007",
+      "bloco": 1,
+      "disciplina": "Língua Portuguesa",
+      "enunciado": "Segundo o Manual de Redação da Presidência da República, o fecho 'Respeitosamente' é utilizado em comunicações dirigidas a autoridades de hierarquia superior à do remetente.",
+      "gabarito": "C"
+    },
+    {
+      "id": "B1_LP_N008",
+      "bloco": 1,
+      "disciplina": "Língua Portuguesa",
+      "enunciado": "A crase é facultativa antes de pronomes possessivos femininos no singular quando estes acompanham um substantivo (ex: 'refiro-me à/a sua dedicação').",
+      "gabarito": "C"
+    },
+    {
+      "id": "B1_LP_N009",
+      "bloco": 1,
+      "disciplina": "Língua Portuguesa",
+      "enunciado": "A vírgula utilizada para isolar o vocativo em uma frase é obrigatória.",
+      "gabarito": "C"
+    },
+    {
+      "id": "B1_LP_N010",
+      "bloco": 1,
+      "disciplina": "Língua Portuguesa",
+      "enunciado": "Os parônimos são palavras que possuem a mesma grafia e a mesma pronúncia, mas significados diferentes.",
+      "gabarito": "E"
+    },
+    {
+      "id": "B1_LP_N011",
+      "bloco": 1,
+      "disciplina": "Língua Portuguesa",
+      "enunciado": "O uso do ponto e vírgula é indicado para separar itens de uma enumeração que já contenham vírgulas internas.",
+      "gabarito": "C"
+    },
+    {
+      "id": "B1_LP_N012",
+      "bloco": 1,
+      "disciplina": "Língua Portuguesa",
+      "enunciado": "A forma verbal 'interveio' (3ª pessoa do singular do pretérito perfeito do indicativo do verbo intervir) está grafada incorretamente, devendo ser 'interviu'.",
+      "gabarito": "E"
+    },
+    {
+      "id": "B1_LP_N013",
+      "bloco": 1,
+      "disciplina": "Língua Portuguesa",
+      "enunciado": "Em textos dissertativo-argumentativos, a tese geralmente é apresentada na introdução e defendida ao longo do desenvolvimento.",
+      "gabarito": "C"
+    },
+    {
+      "id": "B1_LP_N014",
+      "bloco": 1,
+      "disciplina": "Língua Portuguesa",
+      "enunciado": "O pronome 'cujo' estabelece uma relação de posse e deve sempre concordar com o termo possuído, dispensando o uso de artigo após ele.",
+      "gabarito": "C"
+    },
+    {
+      "id": "B1_LP_N015",
+      "bloco": 1,
+      "disciplina": "Língua Portuguesa",
+      "enunciado": "A coesão sequencial é garantida pelo uso de conectivos que estabelecem relações lógicas entre as partes do texto, como causa, consequência e contraste.",
+      "gabarito": "C"
+    },
+    {
+      "id": "B1_DA_N001",
+      "bloco": 1,
+      "disciplina": "Noções de Direito Administrativo",
+      "enunciado": "A desconcentração administrativa é a distribuição interna de competências dentro de uma mesma pessoa jurídica, como a criação de secretarias em um ministério.",
+      "gabarito": "C"
+    },
+    {
+      "id": "B1_DA_N002",
+      "bloco": 1,
+      "disciplina": "Noções de Direito Administrativo",
+      "enunciado": "A autoexecutoriedade é um atributo do ato administrativo que permite à Administração Pública executá-lo diretamente, sem necessidade de prévia autorização judicial, em todas as situações.",
+      "gabarito": "E"
+    },
+    {
+      "id": "B1_DA_N003",
+      "bloco": 1,
+      "disciplina": "Noções de Direito Administrativo",
+      "enunciado": "Servidores públicos ocupantes de cargo em comissão são demissíveis 'ad nutum', ou seja, por livre exoneração da autoridade competente, não possuindo direito à estabilidade.",
+      "gabarito": "C"
+    },
+    {
+      "id": "B1_DA_N004",
+      "bloco": 1,
+      "disciplina": "Noções de Direito Administrativo",
+      "enunciado": "O poder disciplinar da Administração Pública pode ser exercido sobre qualquer particular que descumpra normas administrativas, mesmo que não possua vínculo específico com a Administração.",
+      "gabarito": "E"
+    },
+    {
+      "id": "B1_DA_N005",
+      "bloco": 1,
+      "disciplina": "Noções de Direito Administrativo",
+      "enunciado": "Na Lei nº 14.133/2021 (Nova Lei de Licitações), a modalidade 'pregão' é preferencial para a aquisição de bens e serviços comuns, inclusive os de engenharia.",
+      "gabarito": "C"
+    },
+    {
+      "id": "B1_DA_N006",
+      "bloco": 1,
+      "disciplina": "Noções de Direito Administrativo",
+      "enunciado": "O controle legislativo da Administração Pública exercido pelo Congresso Nacional, com auxílio do Tribunal de Contas da União, abrange aspectos de legalidade, legitimidade e economicidade.",
+      "gabarito": "C"
+    },
+    {
+      "id": "B1_DA_N007",
+      "bloco": 1,
+      "disciplina": "Noções de Direito Administrativo",
+      "enunciado": "A teoria do risco administrativo, adotada pela Constituição Federal para a responsabilidade civil do Estado, admite causas excludentes de responsabilidade, como a culpa exclusiva da vítima.",
+      "gabarito": "C"
+    },
+    {
+      "id": "B1_DA_N008",
+      "bloco": 1,
+      "disciplina": "Noções de Direito Administrativo",
+      "enunciado": "O princípio da moralidade administrativa exige que o agente público atue não apenas conforme a lei, mas também de acordo com os padrões éticos e de boa administração.",
+      "gabarito": "C"
+    },
+    {
+      "id": "B1_DA_N009",
+      "bloco": 1,
+      "disciplina": "Noções de Direito Administrativo",
+      "enunciado": "A anulação de um ato administrativo por vício de legalidade produz efeitos 'ex nunc', ou seja, a partir da data da anulação, respeitando os efeitos já produzidos.",
+      "gabarito": "E"
+    },
+    {
+      "id": "B1_DA_N010",
+      "bloco": 1,
+      "disciplina": "Noções de Direito Administrativo",
+      "enunciado": "As agências reguladoras, espécies de autarquias de regime especial, caracterizam-se pela independência administrativa e autonomia decisória em relação ao Poder Executivo central.",
+      "gabarito": "C"
+    },
+    {
+      "id": "B1_DC_N001",
+      "bloco": 1,
+      "disciplina": "Noções de Direito Constitucional",
+      "enunciado": "A liberdade de expressão, embora fundamental, não é absoluta, encontrando limites em outros direitos e garantias constitucionais, como o direito à honra e à imagem.",
+      "gabarito": "C"
+    },
+    {
+      "id": "B1_DC_N002",
+      "bloco": 1,
+      "disciplina": "Noções de Direito Constitucional",
+      "enunciado": "A perda da nacionalidade brasileira ocorrerá automaticamente para o brasileiro que adquirir outra nacionalidade, em qualquer hipótese.",
+      "gabarito": "E"
+    },
+    {
+      "id": "B1_DC_N003",
+      "bloco": 1,
+      "disciplina": "Noções de Direito Constitucional",
+      "enunciado": "Compete ao Vice-Presidente da República substituir o Presidente em caso de impedimento e suceder-lhe no de vaga, além de auxiliá-lo sempre que por ele convocado para missões especiais.",
+      "gabarito": "C"
+    },
+    {
+      "id": "B1_DC_N004",
+      "bloco": 1,
+      "disciplina": "Noções de Direito Constitucional",
+      "enunciado": "A Polícia Rodoviária Federal, órgão permanente, organizado e mantido pela União, destina-se, na forma da lei, ao patrulhamento ostensivo das rodovias federais e à apuração de crimes contra a vida ocorridos nessas vias.",
+      "gabarito": "E"
+    },
+    {
+      "id": "B1_DC_N005",
+      "bloco": 1,
+      "disciplina": "Noções de Direito Constitucional",
+      "enunciado": "O habeas data é o remédio constitucional adequado para assegurar o conhecimento de informações relativas à pessoa do impetrante, constantes de registros ou bancos de dados de entidades governamentais ou de caráter público.",
+      "gabarito": "C"
+    },
+    {
+      "id": "B1_DC_N006",
+      "bloco": 1,
+      "disciplina": "Noções de Direito Constitucional",
+      "enunciado": "O direito à propriedade é garantido constitucionalmente, mas deve atender à sua função social.",
+      "gabarito": "C"
+    },
+    {
+      "id": "B1_DC_N007",
+      "bloco": 1,
+      "disciplina": "Noções de Direito Constitucional",
+      "enunciado": "As Medidas Provisórias, editadas pelo Presidente da República em caso de relevância e urgência, têm força de lei e não precisam ser convertidas em lei pelo Congresso Nacional para manterem sua eficácia.",
+      "gabarito": "E"
+    },
+    {
+      "id": "B1_DC_N008",
+      "bloco": 1,
+      "disciplina": "Noções de Direito Constitucional",
+      "enunciado": "É dever do Estado garantir a educação básica obrigatória e gratuita dos 4 (quatro) aos 17 (dezessete) anos de idade.",
+      "gabarito": "C"
+    },
+    {
+      "id": "B1_DC_N009",
+      "bloco": 1,
+      "disciplina": "Noções de Direito Constitucional",
+      "enunciado": "O princípio da anterioridade penal impede que uma lei penal mais severa seja aplicada a fatos cometidos antes de sua entrada em vigor.",
+      "gabarito": "C"
+    },
+    {
+      "id": "B1_DC_N010",
+      "bloco": 1,
+      "disciplina": "Noções de Direito Constitucional",
+      "enunciado": "A filiação a partido político é condição de elegibilidade, mas é facultativa para militares.",
+      "gabarito": "E"
+    },
+    {
+      "id": "B1_DP_N001",
+      "bloco": 1,
+      "disciplina": "Noções de Direito Penal",
+      "enunciado": "A extraterritorialidade incondicionada da lei penal brasileira aplica-se, por exemplo, aos crimes praticados por brasileiro no estrangeiro, mesmo que absolvido no país onde o crime ocorreu.",
+      "gabarito": "E"
+    },
+    {
+      "id": "B1_DP_N002",
+      "bloco": 1,
+      "disciplina": "Noções de Direito Penal",
+      "enunciado": "O erro de tipo essencial exclui o dolo, mas permite a punição por crime culposo, se previsto em lei.",
+      "gabarito": "C"
+    },
+    {
+      "id": "B1_DP_N003",
+      "bloco": 1,
+      "disciplina": "Noções de Direito Penal",
+      "enunciado": "No crime de roubo (art. 157 do CP), a violência ou grave ameaça deve ser empregada antes ou durante a subtração da coisa para caracterizar o delito.",
+      "gabarito": "E"
+    },
+    {
+      "id": "B1_DP_N004",
+      "bloco": 1,
+      "disciplina": "Noções de Direito Penal",
+      "enunciado": "O estrito cumprimento do dever legal e o exercício regular de direito são causas supralegais de exclusão da ilicitude.",
+      "gabarito": "E"
+    },
+    {
+      "id": "B1_DP_N005",
+      "bloco": 1,
+      "disciplina": "Noções de Direito Penal",
+      "enunciado": "No crime de concussão, o funcionário público exige, para si ou para outrem, direta ou indiretamente, ainda que fora da função ou antes de assumi-la, mas em razão dela, vantagem indevida.",
+      "gabarito": "C"
+    },
+    {
+      "id": "B1_DP_N006",
+      "bloco": 1,
+      "disciplina": "Noções de Direito Penal",
+      "enunciado": "A coação moral irresistível é uma causa excludente da culpabilidade, pois afeta a exigibilidade de conduta diversa.",
+      "gabarito": "C"
+    },
+    {
+      "id": "B1_DP_N007",
+      "bloco": 1,
+      "disciplina": "Noções de Direito Penal",
+      "enunciado": "A participação em crime pode ocorrer por instigação ou cumplicidade, sendo a punibilidade do partícipe dependente da punibilidade do autor principal.",
+      "gabarito": "C"
+    },
+    {
+      "id": "B1_DP_N008",
+      "bloco": 1,
+      "disciplina": "Noções de Direito Penal",
+      "enunciado": "A prescrição da pretensão punitiva, antes de transitar em julgado a sentença final, regula-se pelo máximo da pena privativa de liberdade cominada ao crime.",
+      "gabarito": "C"
+    },
+    {
+      "id": "B1_DPP_N001",
+      "bloco": 1,
+      "disciplina": "Noções de Direito Processual Penal",
+      "enunciado": "A instauração do inquérito policial pela autoridade policial pode ocorrer de ofício nos crimes de ação penal pública incondicionada.",
+      "gabarito": "C"
+    },
+    {
+      "id": "B1_DPP_N002",
+      "bloco": 1,
+      "disciplina": "Noções de Direito Processual Penal",
+      "enunciado": "A confissão do acusado perante a autoridade policial, quando retratada em juízo, perde totalmente seu valor probatório.",
+      "gabarito": "E"
+    },
+    {
+      "id": "B1_DPP_N003",
+      "bloco": 1,
+      "disciplina": "Noções de Direito Processual Penal",
+      "enunciado": "A busca pessoal independe de mandado judicial quando houver fundada suspeita de que a pessoa esteja na posse de arma proibida ou de objetos ou papéis que constituam corpo de delito.",
+      "gabarito": "C"
+    },
+    {
+      "id": "B1_DPP_N004",
+      "bloco": 1,
+      "disciplina": "Noções de Direito Processual Penal",
+      "enunciado": "O silêncio do acusado durante o interrogatório policial ou judicial poderá ser interpretado em prejuízo de sua defesa.",
+      "gabarito": "E"
+    },
+    {
+      "id": "B1_DPP_N005",
+      "bloco": 1,
+      "disciplina": "Noções de Direito Processual Penal",
+      "enunciado": "O exame de corpo de delito é indispensável nas infrações que deixam vestígios, podendo ser suprido pela prova testemunhal apenas quando os vestígios tiverem desaparecido.",
+      "gabarito": "C"
+    },
+    {
+      "id": "B1_DPP_N006",
+      "bloco": 1,
+      "disciplina": "Noções de Direito Processual Penal",
+      "enunciado": "No processo penal, o ônus da prova da alegação incumbirá a quem a fizer, sendo facultado ao juiz, de ofício, ordenar diligências para dirimir dúvida sobre ponto relevante.",
+      "gabarito": "C"
+    },
+    {
+      "id": "B1_DPP_N007",
+      "bloco": 1,
+      "disciplina": "Noções de Direito Processual Penal",
+      "enunciado": "A quebra da cadeia de custódia da prova pericial acarreta, invariavelmente, a nulidade absoluta da prova.",
+      "gabarito": "E"
+    },
+    {
+      "id": "B1_DPP_N008",
+      "bloco": 1,
+      "disciplina": "Noções de Direito Processual Penal",
+      "enunciado": "A autoridade policial não pode indeferir pedido de perícia formulado pelo ofendido ou pelo investigado durante o inquérito policial.",
+      "gabarito": "E"
+    },
+    {
+      "id": "B1_DH_N001",
+      "bloco": 1,
+      "disciplina": "Direitos Humanos",
+      "enunciado": "Os tratados internacionais de direitos humanos que forem aprovados, em cada Casa do Congresso Nacional, em dois turnos, por três quintos dos votos dos respectivos membros, serão equivalentes às emendas constitucionais.",
+      "gabarito": "C"
+    },
+    {
+      "id": "B1_DH_N002",
+      "bloco": 1,
+      "disciplina": "Direitos Humanos",
+      "enunciado": "A Convenção Americana sobre Direitos Humanos (Pacto de San José da Costa Rica) não admite a pena de morte em nenhuma circunstância para os países signatários.",
+      "gabarito": "E"
+    },
+    {
+      "id": "B1_DH_N003",
+      "bloco": 1,
+      "disciplina": "Direitos Humanos",
+      "enunciado": "O Decreto nº 12.341/2024, que regulamenta a Lei nº 13.060/2014, estabelece que o uso de instrumentos de menor potencial ofensivo deve priorizar a verbalização como forma de resolução de conflitos.",
+      "gabarito": "C"
+    },
+    {
+      "id": "B1_DH_N004",
+      "bloco": 1,
+      "disciplina": "Direitos Humanos",
+      "enunciado": "A Convenção sobre a Eliminação de Todas as Formas de Discriminação Racial considera discriminação racial qualquer distinção baseada em raça que tenha o propósito de anular o reconhecimento de direitos humanos, mas não abrange distinções baseadas em cor ou descendência.",
+      "gabarito": "E"
+    },
+    {
+      "id": "B1_DH_N005",
+      "bloco": 1,
+      "disciplina": "Direitos Humanos",
+      "enunciado": "O crime de genocídio, conforme a Convenção para sua Prevenção e Punição, caracteriza-se pela intenção de destruir, no todo ou em parte, um grupo nacional, étnico, racial ou religioso.",
+      "gabarito": "C"
+    },
+    {
+      "id": "B1_DH_N006",
+      "bloco": 1,
+      "disciplina": "Direitos Humanos",
+      "enunciado": "Os direitos humanos são caracterizados pela universalidade, indivisibilidade e interdependência.",
+      "gabarito": "C"
+    },
+    {
+      "id": "B1_DH_N007",
+      "bloco": 1,
+      "disciplina": "Direitos Humanos",
+      "enunciado": "A responsabilização internacional do Estado por violação de direitos humanos exclui a possibilidade de responsabilização individual dos agentes públicos envolvidos.",
+      "gabarito": "E"
+    },
+    {
+      "id": "B1_LE_N001",
+      "bloco": 1,
+      "disciplina": "Legislação Especial",
+      "enunciado": "A Lei de Abuso de Autoridade (Lei nº 13.869/2019) prevê que a divergência na interpretação de lei ou na avaliação de fatos e provas configura abuso de autoridade.",
+      "gabarito": "E"
+    },
+    {
+      "id": "B1_LE_N002",
+      "bloco": 1,
+      "disciplina": "Legislação Especial",
+      "enunciado": "O Estatuto do Idoso (Lei nº 10.741/2003) tipifica como crime a conduta de apropriar-se de bens, proventos, pensão ou qualquer outro rendimento do idoso, dando-lhes aplicação diversa da de sua finalidade.",
+      "gabarito": "C"
+    },
+    {
+      "id": "B1_LE_N003",
+      "bloco": 1,
+      "disciplina": "Legislação Especial",
+      "enunciado": "A Lei Maria da Penha (Lei nº 11.340/2006) aplica-se exclusivamente a casos de violência doméstica e familiar contra a mulher praticada por cônjuge ou companheiro.",
+      "gabarito": "E"
+    },
+    {
+      "id": "B1_LE_N004",
+      "bloco": 1,
+      "disciplina": "Legislação Especial",
+      "enunciado": "A Lei de Interceptação Telefônica (Lei nº 9.296/1996) permite a interceptação de comunicações telefônicas para investigação criminal ou instrução processual penal, mediante autorização judicial, em qualquer tipo de crime.",
+      "gabarito": "E"
+    },
+    {
+      "id": "B1_LE_N005",
+      "bloco": 1,
+      "disciplina": "Legislação Especial",
+      "enunciado": "A Lei nº 12.850/2013 (Organização Criminosa) define organização criminosa como a associação de 3 (três) ou mais pessoas estruturalmente ordenada e caracterizada pela divisão de tarefas, ainda que informalmente, com objetivo de obter, direta ou indiretamente, vantagem de qualquer natureza, mediante a prática de infrações penais cujas penas máximas sejam superiores a 4 (quatro) anos, ou que sejam de caráter transnacional.",
+      "gabarito": "C"
+    },
+    {
+      "id": "B1_LE_N006",
+      "bloco": 1,
+      "disciplina": "Legislação Especial",
+      "enunciado": "O Código de Defesa do Consumidor (Lei nº 8.078/1990) considera publicidade enganosa qualquer modalidade de informação de caráter publicitário, inteira ou parcialmente falsa, capaz de induzir em erro o consumidor a respeito da natureza, características, qualidade, quantidade, propriedades, origem, preço e quaisquer outros dados sobre produtos e serviços.",
+      "gabarito": "C"
+    },
+    {
+      "id": "B1_LE_N007",
+      "bloco": 1,
+      "disciplina": "Legislação Especial",
+      "enunciado": "A Lei dos Crimes Hediondos (Lei nº 8.072/1990) estabelece que os condenados por tais crimes devem cumprir a pena integralmente em regime fechado.",
+      "gabarito": "E"
+    },
+    {
+      "id": "B1_LE_N008",
+      "bloco": 1,
+      "disciplina": "Legislação Especial",
+      "enunciado": "Conforme a Lei de Lavagem de Dinheiro (Lei nº 9.613/1998), a ocultação ou dissimulação da natureza, origem, localização, disposição, movimentação ou propriedade de bens, direitos ou valores provenientes, direta ou indiretamente, de infração penal é punível, mesmo que o autor seja isento de pena pela infração antecedente.",
+      "gabarito": "C"
+    },
+    {
+      "id": "B1_LE_N009",
+      "bloco": 1,
+      "disciplina": "Legislação Especial",
+      "enunciado": "A colaboração premiada, prevista na Lei nº 12.850/2013, é um meio de obtenção de prova que pode resultar em perdão judicial, redução da pena ou substituição por restritiva de direitos, desde que a colaboração seja efetiva e voluntária.",
+      "gabarito": "C"
+    },
+    {
+      "id": "B1_LE_N010",
+      "bloco": 1,
+      "disciplina": "Legislação Especial",
+      "enunciado": "O Estatuto da Pessoa com Deficiência (Lei nº 13.146/2015) assegura à pessoa com deficiência o direito ao trabalho de sua livre escolha e aceitação, em ambiente acessível e inclusivo, em igualdade de oportunidades com as demais pessoas.",
+      "gabarito": "C"
+    },
+    {
+      "id": "B1_LE_N011",
+      "bloco": 1,
+      "disciplina": "Legislação Especial",
+      "enunciado": "A Lei de Racismo (Lei nº 7.716/1989) define os crimes resultantes de preconceito de raça ou de cor, sendo estes imprescritíveis e inafiançáveis.",
+      "gabarito": "C"
+    },
+    {
+      "id": "B1_LE_N012",
+      "bloco": 1,
+      "disciplina": "Legislação Especial",
+      "enunciado": "A Lei de Execução Penal (Lei nº 7.210/1984) tem por objetivo efetivar as disposições de sentença ou decisão criminal e proporcionar condições para a harmônica integração social do condenado e do internado.",
+      "gabarito": "C"
+    },
+    {
+      "id": "B1_EST_N001",
+      "bloco": 1,
+      "disciplina": "Estatística",
+      "enunciado": "Em uma distribuição de frequências, a frequência relativa de uma classe é obtida dividindo-se a frequência absoluta dessa classe pelo número total de observações.",
+      "gabarito": "C"
+    },
+    {
+      "id": "B1_EST_N002",
+      "bloco": 1,
+      "disciplina": "Estatística",
+      "enunciado": "O desvio padrão é uma medida de tendência central que indica o valor mais frequente em um conjunto de dados.",
+      "gabarito": "E"
+    },
+    {
+      "id": "B1_EST_N003",
+      "bloco": 1,
+      "disciplina": "Estatística",
+      "enunciado": "Se P(A|B) = P(A), então os eventos A e B são mutuamente exclusivos.",
+      "gabarito": "E"
+    },
+    {
+      "id": "B1_EST_N004",
+      "bloco": 1,
+      "disciplina": "Estatística",
+      "enunciado": "Um intervalo de confiança de 95% para a média populacional significa que há 95% de probabilidade de a verdadeira média populacional estar contida nesse intervalo específico calculado a partir da amostra.",
+      "gabarito": "E"
+    },
+    {
+      "id": "B1_EST_N005",
+      "bloco": 1,
+      "disciplina": "Estatística",
+      "enunciado": "Na amostragem estratificada, a população é dividida em subgrupos homogêneos (estratos), e uma amostra aleatória simples é selecionada de cada estrato.",
+      "gabarito": "C"
+    },
+    {
+      "id": "B1_RL_N001",
+      "bloco": 1,
+      "disciplina": "Raciocínio Lógico",
+      "enunciado": "A proposição 'Se o crime é complexo, então a investigação é demorada' é uma bicondicional.",
+      "gabarito": "E"
+    },
+    {
+      "id": "B1_RL_N002",
+      "bloco": 1,
+      "disciplina": "Raciocínio Lógico",
+      "enunciado": "Se P é 'Ana é agente' e Q é 'Carlos é perito', a proposição 'Ana é agente ou Carlos não é perito' pode ser simbolizada por P ∨ ¬Q.",
+      "gabarito": "C"
+    },
+    {
+      "id": "B1_RL_N003",
+      "bloco": 1,
+      "disciplina": "Raciocínio Lógico",
+      "enunciado": "Uma contradição é uma proposição composta que é sempre falsa, independentemente dos valores lógicos das proposições simples que a compõem.",
+      "gabarito": "C"
+    },
+    {
+      "id": "B1_RL_N004",
+      "bloco": 1,
+      "disciplina": "Raciocínio Lógico",
+      "enunciado": "O número de anagramas da palavra 'FEDERAL' que começam com a letra 'F' é 6! (fatorial de 6).",
+      "gabarito": "E"
+    },
+    {
+      "id": "B1_RL_N005",
+      "bloco": 1,
+      "disciplina": "Raciocínio Lógico",
+      "enunciado": "Se todos os X são Y e algum Z é X, então é necessariamente verdadeiro que algum Z é Y.",
+      "gabarito": "C"
+    },
+    {
+      "id": "B2_INF_N001",
+      "bloco": 2,
+      "disciplina": "Informática",
+      "enunciado": "O sistema de arquivos NTFS, utilizado em sistemas Windows, suporta recursos como permissões de segurança em nível de arquivo e criptografia (EFS).",
+      "gabarito": "C"
+    },
+    {
+      "id": "B2_INF_N002",
+      "bloco": 2,
+      "disciplina": "Informática",
+      "enunciado": "Um ataque de 'Man-in-the-Middle' ocorre quando um invasor consegue interceptar a comunicação entre duas partes, podendo ler, inserir ou modificar dados sem que as vítimas percebam.",
+      "gabarito": "C"
+    },
+    {
+      "id": "B2_INF_N003",
+      "bloco": 2,
+      "disciplina": "Informática",
+      "enunciado": "O comando 'ping' é utilizado em redes de computadores para medir a latência entre dois dispositivos, mas não verifica a conectividade.",
+      "gabarito": "E"
+    },
+    {
+      "id": "B2_INF_N004",
+      "bloco": 2,
+      "disciplina": "Informática",
+      "enunciado": "Em Microsoft Excel, a função SOMASES (SUMIFS) permite somar valores em um intervalo que atendem a múltiplos critérios.",
+      "gabarito": "C"
+    },
+    {
+      "id": "B2_INF_N005",
+      "bloco": 2,
+      "disciplina": "Informática",
+      "enunciado": "A arquitetura cliente-servidor em redes de computadores caracteriza-se pela ausência de um servidor central, com todos os nós possuindo capacidades e responsabilidades equivalentes.",
+      "gabarito": "E"
+    },
+    {
+      "id": "B2_INF_N006",
+      "bloco": 2,
+      "disciplina": "Informática",
+      "enunciado": "O protocolo SMTP (Simple Mail Transfer Protocol) é utilizado para o envio de e-mails entre servidores de correio eletrônico.",
+      "gabarito": "C"
+    },
+    {
+      "id": "B2_INF_N007",
+      "bloco": 2,
+      "disciplina": "Informática",
+      "enunciado": "Firewalls baseados em estado (stateful) analisam o tráfego de rede com base em regras predefinidas, mas não mantêm o controle do estado das conexões ativas.",
+      "gabarito": "E"
+    },
+    {
+      "id": "B2_INF_N008",
+      "bloco": 2,
+      "disciplina": "Informática",
+      "enunciado": "A linguagem R é amplamente utilizada para análise estatística e visualização de dados, sendo uma alternativa ao Python para essas finalidades.",
+      "gabarito": "C"
+    },
+    {
+      "id": "B2_INF_N009",
+      "bloco": 2,
+      "disciplina": "Informática",
+      "enunciado": "Um Data Warehouse é um sistema otimizado para transações online de rotina (OLTP), como inserção e atualização de dados em tempo real.",
+      "gabarito": "E"
+    },
+    {
+      "id": "B2_INF_N010",
+      "bloco": 2,
+      "disciplina": "Informática",
+      "enunciado": "O formato XML (Extensible Markup Language) é um formato de arquivo binário utilizado principalmente para armazenar imagens compactadas na web.",
+      "gabarito": "E"
+    },
+    {
+      "id": "B2_INF_N011",
+      "bloco": 2,
+      "disciplina": "Informática",
+      "enunciado": "No contexto de segurança da informação, a 'confidencialidade' garante que a informação não seja alterada indevidamente durante sua transmissão ou armazenamento.",
+      "gabarito": "E"
+    },
+    {
+      "id": "B2_INF_N012",
+      "bloco": 2,
+      "disciplina": "Informática",
+      "enunciado": "O 'kernel' de um sistema operacional é o núcleo responsável pelo gerenciamento dos recursos de hardware e pela comunicação entre software e hardware.",
+      "gabarito": "C"
+    },
+    {
+      "id": "B2_INF_N013",
+      "bloco": 2,
+      "disciplina": "Informática",
+      "enunciado": "A linguagem de consulta SQL é utilizada exclusivamente para a recuperação de dados (SELECT), não permitindo a modificação (UPDATE, DELETE) ou inserção (INSERT) de dados em bancos relacionais.",
+      "gabarito": "E"
+    },
+    {
+      "id": "B2_INF_N014",
+      "bloco": 2,
+      "disciplina": "Informática",
+      "enunciado": "O padrão IEEE 802.11 refere-se a um conjunto de especificações para redes locais sem fio (WLAN), comumente conhecidas como Wi-Fi.",
+      "gabarito": "C"
+    },
+    {
+      "id": "B2_INF_N015",
+      "bloco": 2,
+      "disciplina": "Informática",
+      "enunciado": "Um 'rootkit' é um tipo de malware projetado para obter acesso privilegiado (nível de administrador ou root) a um sistema computacional de forma furtiva, dificultando sua detecção.",
+      "gabarito": "C"
+    },
+    {
+      "id": "B2_INF_N016",
+      "bloco": 2,
+      "disciplina": "Informática",
+      "enunciado": "A 'camada física' do modelo OSI é responsável pela transmissão dos bits brutos através do meio de comunicação, lidando com as especificações elétricas e mecânicas da interface.",
+      "gabarito": "C"
+    },
+    {
+      "id": "B2_INF_N017",
+      "bloco": 2,
+      "disciplina": "Informática",
+      "enunciado": "O conceito de 'Business Intelligence' (BI) envolve o uso de ferramentas e técnicas para transformar dados brutos em informações significativas e úteis para auxiliar na tomada de decisões estratégicas.",
+      "gabarito": "C"
+    },
+    {
+      "id": "B2_INF_N018",
+      "bloco": 2,
+      "disciplina": "Informática",
+      "enunciado": "O 'prompt de comando' no Windows (cmd.exe) e o 'terminal' no Linux oferecem interfaces gráficas para interação com o sistema operacional.",
+      "gabarito": "E"
+    },
+    {
+      "id": "B2_INF_N019",
+      "bloco": 2,
+      "disciplina": "Informática",
+      "enunciado": "O protocolo DNS (Domain Name System) é responsável pela atribuição dinâmica de endereços IP a dispositivos em uma rede.",
+      "gabarito": "E"
+    },
+    {
+      "id": "B2_INF_N020",
+      "bloco": 2,
+      "disciplina": "Informática",
+      "enunciado": "A assinatura digital utiliza criptografia assimétrica para garantir a autenticidade, integridade e o não repúdio de um documento eletrônico.",
+      "gabarito": "C"
+    },
+    {
+      "id": "B2_INF_N021",
+      "bloco": 2,
+      "disciplina": "Informática",
+      "enunciado": "Em redes de computadores, um 'hub' é um dispositivo mais inteligente que um 'switch', pois analisa os endereços MAC para encaminhar dados apenas à porta de destino.",
+      "gabarito": "E"
+    },
+    {
+      "id": "B2_INF_N022",
+      "bloco": 2,
+      "disciplina": "Informática",
+      "enunciado": "O Microsoft PowerPoint é um software de planilha eletrônica que permite a criação de gráficos e a realização de cálculos complexos.",
+      "gabarito": "E"
+    },
+    {
+      "id": "B2_INF_N023",
+      "bloco": 2,
+      "disciplina": "Informática",
+      "enunciado": "Um 'botnet' é uma rede de computadores infectados (zumbis) que são controlados remotamente por um invasor para realizar atividades maliciosas, como ataques DDoS ou envio de spam.",
+      "gabarito": "C"
+    },
+    {
+      "id": "B2_INF_N024",
+      "bloco": 2,
+      "disciplina": "Informática",
+      "enunciado": "A virtualização permite a execução de múltiplos sistemas operacionais em um único hardware físico, otimizando o uso de recursos.",
+      "gabarito": "C"
+    },
+    {
+      "id": "B2_INF_N025",
+      "bloco": 2,
+      "disciplina": "Informática",
+      "enunciado": "O protocolo UDP (User Datagram Protocol) é orientado à conexão e garante a entrega confiável e ordenada dos pacotes, sendo ideal para streaming de vídeo.",
+      "gabarito": "E"
+    },
+    {
+      "id": "B2_INF_N026",
+      "bloco": 2,
+      "disciplina": "Informática",
+      "enunciado": "O 'Modo de Navegação Anônima' ou 'Privada' dos navegadores web impede completamente o rastreamento de atividades online pelo provedor de internet e por sites visitados.",
+      "gabarito": "E"
+    },
+    {
+      "id": "B2_INF_N027",
+      "bloco": 2,
+      "disciplina": "Informática",
+      "enunciado": "No Linux, o comando 'ls' é utilizado para listar o conteúdo de diretórios, enquanto o comando 'cd' é usado para criar novos diretórios.",
+      "gabarito": "E"
+    },
+    {
+      "id": "B2_INF_N028",
+      "bloco": 2,
+      "disciplina": "Informática",
+      "enunciado": "Em segurança da informação, o princípio do 'não repúdio' garante que uma parte envolvida em uma transação ou comunicação não possa negar sua participação ou autoria.",
+      "gabarito": "C"
+    },
+    {
+      "id": "B2_INF_N029",
+      "bloco": 2,
+      "disciplina": "Informática",
+      "enunciado": "O modelo de serviço em nuvem PaaS (Platform as a Service) fornece ao desenvolvedor um ambiente completo para desenvolvimento, teste e implantação de aplicações, sem que ele precise gerenciar a infraestrutura de hardware ou o sistema operacional base.",
+      "gabarito": "C"
+    },
+    {
+      "id": "B2_INF_N030",
+      "bloco": 2,
+      "disciplina": "Informática",
+      "enunciado": "Inteligência Artificial Generativa, como o ChatGPT, refere-se a sistemas capazes de criar conteúdo original, como texto, imagens ou música, com base nos dados com os quais foram treinados.",
+      "gabarito": "C"
+    },
+    {
+      "id": "B2_INF_N031",
+      "bloco": 2,
+      "disciplina": "Informática",
+      "enunciado": "O 'Registro do Windows' é um banco de dados hierárquico que armazena configurações de baixo nível para o sistema operacional Microsoft Windows e para aplicativos que optam por usar o registro.",
+      "gabarito": "C"
+    },
+    {
+      "id": "B2_INF_N032",
+      "bloco": 2,
+      "disciplina": "Informática",
+      "enunciado": "A ferramenta 'Gerenciador de Tarefas' do Windows permite monitorar o desempenho do sistema e os processos em execução, mas não permite finalizar tarefas.",
+      "gabarito": "E"
+    },
+    {
+      "id": "B2_INF_N033",
+      "bloco": 2,
+      "disciplina": "Informática",
+      "enunciado": "Um 'backup incremental' copia apenas os arquivos que foram criados ou modificados desde o último backup completo ou incremental, economizando espaço e tempo.",
+      "gabarito": "C"
+    },
+    {
+      "id": "B2_INF_N034",
+      "bloco": 2,
+      "disciplina": "Informática",
+      "enunciado": "O conceito de 'software livre' implica que o software é sempre gratuito e não pode ser modificado ou distribuído por terceiros.",
+      "gabarito": "E"
+    },
+    {
+      "id": "B2_INF_N035",
+      "bloco": 2,
+      "disciplina": "Informática",
+      "enunciado": "A tecnologia RAID 1 (espelhamento) aumenta a capacidade total de armazenamento ao combinar dois discos em um único volume lógico.",
+      "gabarito": "E"
+    },
+    {
+      "id": "B2_INF_N036",
+      "bloco": 2,
+      "disciplina": "Informática",
+      "enunciado": "A análise de logs de sistema é uma técnica importante na investigação forense digital para rastrear atividades e identificar possíveis incidentes de segurança.",
+      "gabarito": "C"
+    },
+    {
+      "id": "B2_INF_N037",
+      "bloco": 2,
+      "disciplina": "Informática",
+      "enunciado": "A 'deep web' e a 'dark web' são termos sinônimos que se referem à parte da internet não indexada por motores de busca convencionais e que requer software específico para acesso.",
+      "gabarito": "E"
+    },
+    {
+      "id": "B2_INF_N038",
+      "bloco": 2,
+      "disciplina": "Informática",
+      "enunciado": "Um ataque de 'força bruta' a senhas consiste em testar sistematicamente todas as combinações possíveis de caracteres até que a senha correta seja encontrada.",
+      "gabarito": "C"
+    },
+    {
+      "id": "B2_INF_N039",
+      "bloco": 2,
+      "disciplina": "Informática",
+      "enunciado": "O 'endereço MAC' (Media Access Control) de uma placa de rede é um identificador físico único atribuído pelo fabricante, utilizado na camada de enlace do modelo OSI.",
+      "gabarito": "C"
+    },
+    {
+      "id": "B2_INF_N040",
+      "bloco": 2,
+      "disciplina": "Informática",
+      "enunciado": "A criptografia simétrica utiliza um par de chaves, uma pública para criptografar e uma privada para descriptografar, oferecendo maior segurança que a criptografia assimétrica.",
+      "gabarito": "E"
+    },
+    {
+      "id": "B2_INF_N041",
+      "bloco": 2,
+      "disciplina": "Informática",
+      "enunciado": "O termo 'Open Source' refere-se a software cujo código-fonte é disponibilizado publicamente, permitindo que qualquer pessoa o estude, modifique e distribua.",
+      "gabarito": "C"
+    },
+    {
+      "id": "B2_INF_N042",
+      "bloco": 2,
+      "disciplina": "Informática",
+      "enunciado": "Um 'roteador' é um dispositivo de rede que opera na camada de Enlace (Camada 2) do modelo OSI e encaminha pacotes de dados entre diferentes redes locais (LANs) com base em endereços MAC.",
+      "gabarito": "E"
+    },
+    {
+      "id": "B2_INF_N043",
+      "bloco": 2,
+      "disciplina": "Informática",
+      "enunciado": "O 'gerenciamento de memória' é uma função do sistema operacional responsável por alocar e desalocar espaço de memória para os processos em execução, além de proteger os espaços de memória uns dos outros.",
+      "gabarito": "C"
+    },
+    {
+      "id": "B2_INF_N044",
+      "bloco": 2,
+      "disciplina": "Informática",
+      "enunciado": "O 'Microsoft Word' é primariamente um software para criação e edição de apresentações de slides, com recursos avançados de animação e transição.",
+      "gabarito": "E"
+    },
+    {
+      "id": "B2_INF_N045",
+      "bloco": 2,
+      "disciplina": "Informática",
+      "enunciado": "A 'normalização' em bancos de dados relacionais é um processo que visa reduzir a redundância de dados e melhorar a integridade dos dados, organizando as tabelas de forma eficiente.",
+      "gabarito": "C"
+    },
+    {
+      "id": "B3_CG_N001",
+      "bloco": 3,
+      "disciplina": "Contabilidade Geral",
+      "enunciado": "O princípio contábil da Entidade reconhece o patrimônio da empresa como distinto do patrimônio dos seus sócios ou proprietários.",
+      "gabarito": "C"
+    },
+    {
+      "id": "B3_CG_N002",
+      "bloco": 3,
+      "disciplina": "Contabilidade Geral",
+      "enunciado": "As contas retificadoras do ativo, como 'Depreciação Acumulada', possuem natureza devedora, pois aumentam o valor do ativo.",
+      "gabarito": "E"
+    },
+    {
+      "id": "B3_CG_N003",
+      "bloco": 3,
+      "disciplina": "Contabilidade Geral",
+      "enunciado": "O livro Razão é utilizado para registrar os lançamentos contábeis em ordem cronológica de ocorrência dos fatos.",
+      "gabarito": "E"
+    },
+    {
+      "id": "B3_CG_N004",
+      "bloco": 3,
+      "disciplina": "Contabilidade Geral",
+      "enunciado": "A integralização de capital social com bens (que não dinheiro) é um fato contábil que aumenta o Ativo e o Patrimônio Líquido.",
+      "gabarito": "C"
+    },
+    {
+      "id": "B3_CG_N005",
+      "bloco": 3,
+      "disciplina": "Contabilidade Geral",
+      "enunciado": "O Passivo Circulante representa as obrigações da entidade que serão liquidadas após o término do exercício social seguinte.",
+      "gabarito": "E"
+    },
+    {
+      "id": "B3_CG_N006",
+      "bloco": 3,
+      "disciplina": "Contabilidade Geral",
+      "enunciado": "As Reservas de Lucros são constituídas a partir da apropriação de lucros apurados pela entidade e fazem parte do Patrimônio Líquido.",
+      "gabarito": "C"
+    },
+    {
+      "id": "B3_CG_N007",
+      "bloco": 3,
+      "disciplina": "Contabilidade Geral",
+      "enunciado": "Um exemplo de fato administrativo misto diminutivo é a venda de mercadorias com prejuízo, recebendo parte à vista e parte a prazo.",
+      "gabarito": "C"
+    },
+    {
+      "id": "B3_CG_N008",
+      "bloco": 3,
+      "disciplina": "Contabilidade Geral",
+      "enunciado": "A conta 'Fornecedores' no Passivo tem saldo de natureza devedora.",
+      "gabarito": "E"
+    },
+    {
+      "id": "B3_CG_N009",
+      "bloco": 3,
+      "disciplina": "Contabilidade Geral",
+      "enunciado": "O pagamento de salários aos funcionários, que já haviam sido provisionados como despesa no mês anterior, é um fato meramente permutativo.",
+      "gabarito": "C"
+    },
+    {
+      "id": "B3_CG_N010",
+      "bloco": 3,
+      "disciplina": "Contabilidade Geral",
+      "enunciado": "O Ativo Não Circulante é composto por bens e direitos que não se espera realizar (converter em dinheiro) no curso do exercício social subsequente.",
+      "gabarito": "C"
+    },
+    {
+      "id": "B3_CG_N011",
+      "bloco": 3,
+      "disciplina": "Contabilidade Geral",
+      "enunciado": "O método de avaliação de estoques PEPS (Primeiro que Entra, Primeiro que Sai) assume que as unidades mais antigas do estoque são as primeiras a serem vendidas.",
+      "gabarito": "C"
+    },
+    {
+      "id": "B3_CG_N012",
+      "bloco": 3,
+      "disciplina": "Contabilidade Geral",
+      "enunciado": "A aquisição de um software de uso permanente pela empresa deve ser registrada como uma despesa operacional no momento da compra.",
+      "gabarito": "E"
+    },
+    {
+      "id": "B3_CG_N013",
+      "bloco": 3,
+      "disciplina": "Contabilidade Geral",
+      "enunciado": "O lucro líquido apurado na Demonstração do Resultado do Exercício aumenta o Patrimônio Líquido da entidade.",
+      "gabarito": "C"
+    },
+    {
+      "id": "B3_CG_N014",
+      "bloco": 3,
+      "disciplina": "Contabilidade Geral",
+      "enunciado": "A NBC TSP Estrutura Conceitual estabelece que a informação contábil, para ser útil, deve ser relevante e representar fidedignamente o que se propõe a representar.",
+      "gabarito": "C"
+    },
+    {
+      "id": "B3_CG_N015",
+      "bloco": 3,
+      "disciplina": "Contabilidade Geral",
+      "enunciado": "A conta 'Capital a Realizar' é uma conta retificadora do Patrimônio Líquido, representando a parcela do capital subscrito pelos sócios que ainda não foi integralizada.",
+      "gabarito": "C"
+    },
+    {
+      "id": "B3_CG_N016",
+      "bloco": 3,
+      "disciplina": "Contabilidade Geral",
+      "enunciado": "A amortização é o processo contábil de reconhecimento da perda de valor de bens intangíveis com vida útil definida.",
+      "gabarito": "C"
+    },
+    {
+      "id": "B3_CG_N017",
+      "bloco": 3,
+      "disciplina": "Contabilidade Geral",
+      "enunciado": "O recebimento de aluguéis antecipadamente pela empresa gera, no momento do recebimento, o reconhecimento de uma receita no resultado do exercício.",
+      "gabarito": "E"
+    },
+    {
+      "id": "B3_CG_N018",
+      "bloco": 3,
+      "disciplina": "Contabilidade Geral",
+      "enunciado": "O princípio da Competência determina que as receitas e as despesas devem ser reconhecidas nos períodos em que efetivamente ocorrerem seus ingressos ou desembolsos financeiros.",
+      "gabarito": "E"
+    },
+    {
+      "id": "B3_CG_N019",
+      "bloco": 3,
+      "disciplina": "Contabilidade Geral",
+      "enunciado": "A conta 'Impostos a Recolher' representa um direito da empresa perante o governo.",
+      "gabarito": "E"
+    },
+    {
+      "id": "B3_CG_N020",
+      "bloco": 3,
+      "disciplina": "Contabilidade Geral",
+      "enunciado": "A depreciação de um veículo utilizado pela área administrativa da empresa é registrada como um custo direto de produção.",
+      "gabarito": "E"
+    },
+    {
+      "id": "B3_CG_N021",
+      "bloco": 3,
+      "disciplina": "Contabilidade Geral",
+      "enunciado": "O Balanço Patrimonial é uma demonstração contábil estática, que evidencia a posição patrimonial e financeira da entidade em um determinado momento.",
+      "gabarito": "C"
+    },
+    {
+      "id": "B3_CG_N022",
+      "bloco": 3,
+      "disciplina": "Contabilidade Geral",
+      "enunciado": "A venda de um bem do ativo imobilizado com lucro gera um aumento no Ativo e um aumento no Patrimônio Líquido pelo valor do lucro.",
+      "gabarito": "C"
+    },
+    {
+      "id": "B3_CG_N023",
+      "bloco": 3,
+      "disciplina": "Contabilidade Geral",
+      "enunciado": "Os Adiantamentos a Fornecedores são classificados no Passivo, pois representam uma obrigação da empresa para com seus fornecedores.",
+      "gabarito": "E"
+    },
+    {
+      "id": "B3_CG_N024",
+      "bloco": 3,
+      "disciplina": "Contabilidade Geral",
+      "enunciado": "O Regime de Caixa é o único aceito pela legislação fiscal brasileira para apuração do Imposto de Renda das Pessoas Jurídicas.",
+      "gabarito": "E"
+    },
+    {
+      "id": "B3_CG_N025",
+      "bloco": 3,
+      "disciplina": "Contabilidade Geral",
+      "enunciado": "A conta 'Duplicatas a Receber' é uma conta do Ativo Circulante que representa direitos da empresa provenientes de vendas a prazo.",
+      "gabarito": "C"
+    },
+    {
+      "id": "B3_CG_N026",
+      "bloco": 3,
+      "disciplina": "Contabilidade Geral",
+      "enunciado": "A reavaliação de ativos, permitida pela legislação contábil brasileira, sempre resulta em um aumento do Patrimônio Líquido.",
+      "gabarito": "E"
+    },
+    {
+      "id": "B3_CG_N027",
+      "bloco": 3,
+      "disciplina": "Contabilidade Geral",
+      "enunciado": "O Passivo Não Circulante inclui as obrigações da entidade com vencimento no exercício social subsequente.",
+      "gabarito": "E"
+    },
+    {
+      "id": "B3_CG_N028",
+      "bloco": 3,
+      "disciplina": "Contabilidade Geral",
+      "enunciado": "Os gastos com pesquisa e desenvolvimento de novos produtos devem ser sempre registrados integralmente como despesa do período em que ocorrem.",
+      "gabarito": "E"
+    },
+    {
+      "id": "B3_CG_N029",
+      "bloco": 3,
+      "disciplina": "Contabilidade Geral",
+      "enunciado": "O Patrimônio de uma entidade é o conjunto de bens, direitos e obrigações vinculados a ela.",
+      "gabarito": "C"
+    },
+    {
+      "id": "B3_CG_N030",
+      "bloco": 3,
+      "disciplina": "Contabilidade Geral",
+      "enunciado": "A Demonstração dos Fluxos de Caixa (DFC) evidencia as movimentações ocorridas nas contas do Patrimônio Líquido durante o exercício.",
+      "gabarito": "E"
     }
   ]
